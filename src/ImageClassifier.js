@@ -48,3 +48,4 @@ function ImageClassifier() {
 }
 
 export default ImageClassifier;
+// 정상독작
